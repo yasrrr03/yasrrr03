@@ -11,12 +11,11 @@ every step in public, starting from zero CS background.
 - 🔍 RAG, embeddings and vector databases (up next)
 
 ## My main project
-[`prompt-library`](https://github.com/yasrrr03/prompt-library) — a tested collection
-of prompts with before/after outputs. Updated weekly as I learn.
+[prompt-library](https://github.com/yasrrr03/prompt-library) — a tested collection of prompts with before/after outputs. Updated weekly as I learn.
 
 ## Why listen to me?
 Maybe you shouldn't (yet) — I'm a beginner, and this profile is the receipts.
 Come back in 16 weeks and see what's changed.
 
 ## Elsewhere
-- 💼 [LinkedIn](https://linkedin.com/in/yasirali0/) — weekly notes on what I'm learning.
+- 💼 [LinkedIn](https://www.linkedin.com/in/yasirali0/) — weekly notes on what I'm learning.
